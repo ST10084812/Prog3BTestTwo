@@ -1,0 +1,7 @@
+C:\Users\ebmoe\source\repos\GitActionsTester\GitActionsTester\bin\Debug\GitActionsTester.exe.config
+C:\Users\ebmoe\source\repos\GitActionsTester\GitActionsTester\bin\Debug\GitActionsTester.exe
+C:\Users\ebmoe\source\repos\GitActionsTester\GitActionsTester\bin\Debug\GitActionsTester.pdb
+C:\Users\ebmoe\source\repos\GitActionsTester\GitActionsTester\obj\Debug\GitActionsTester.csproj.AssemblyReference.cache
+C:\Users\ebmoe\source\repos\GitActionsTester\GitActionsTester\obj\Debug\GitActionsTester.csproj.CoreCompileInputs.cache
+C:\Users\ebmoe\source\repos\GitActionsTester\GitActionsTester\obj\Debug\GitActionsTester.exe
+C:\Users\ebmoe\source\repos\GitActionsTester\GitActionsTester\obj\Debug\GitActionsTester.pdb
